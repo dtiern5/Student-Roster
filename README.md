@@ -1,5 +1,2 @@
-The project scenario required migrating an existing student system to C++ with given function and class requirements.
-main() in main.cpp demonstrates this functionality.
-There is an attached PNG file of functionality.
-
-This is the first programming project I have ever completed, as well as my first time using C++ and github.
+CLI application providing a printout of students, invalid email addresses, number of class days, 
+and number of students in a requested degree program.
